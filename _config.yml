@@ -56,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "GIS Data Lab"
+  avatar : "https://umd-brand.transforms.svdcdn.com/production/uploads/images/logos-formal-seal.jpg?w=1801&h=1801&auto=compress%2Cformat&fit=crop&dm=1651267392&s=81a14f930f7888983f0f8bc10146c0b2"
+  bio    : "Hi👋! Weclome to GIS Data Lab at University of Maryland Libraries webpage. We are a group of GIS and Data Science enthusiasts who are passionate about helping our library's patrons with related projects. We are located in McKeldin Library, Room 4111. Come visit us!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    # - label: "Website"
+      # icon: "fas fa-fw fa-link"
+      # url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -77,10 +77,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/UMDGeo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/UMD-GIS-Data-Lab/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
