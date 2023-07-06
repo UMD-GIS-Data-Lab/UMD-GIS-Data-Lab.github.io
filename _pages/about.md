@@ -170,7 +170,7 @@ I am a graduate of the University of Maryland, College Park, with degrees in Geo
 </small>
 </div>
 <div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
-<img src="https://ca.slack-edge.com/T054162SPA6-U053ZD1MA3H-0bff05b16030-512" alt="drawing" width="200"/>
+<!-- <img src="https://ca.slack-edge.com/T054162SPA6-U053ZD1MA3H-0bff05b16030-512" alt="drawing" width="200"/> -->
 </div>
 <div style="clear:both;"></div>
 </div>
