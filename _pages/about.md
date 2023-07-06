@@ -152,3 +152,25 @@ The best way to reach me is by email at <a href="mailto:sakarp07@umd.edu">sakarp
 </div>
 <div style="clear:both;"></div>
 </div>
+
+
+### 👨‍💻 Jim Nealis
+
+<sub >Role: **Map Collection Volunteer**</sub >
+<div style="display: flex;">
+<div style="  display: inline-block;
+  margin-right: -50px;
+  width:75%;
+  text-align: left;">
+
+<small>
+
+I am a graduate of the University of Maryland, College Park, with degrees in Geography and Sociology.  I began volunteering at the library since 2011, after my retirement from the Washington Suburban Sanitary Commission (the water and sewer agency serving the Maryland suburbs of D.C.), where I worked as an assistant engineer, cartographer, and contract manager.  I like maps and atlases and have been ‘curator’ of the McKeldin map collection of over 100,000 maps for more than ten years.  If you need help locating a map in our procured collection - which includes maps from the 1800s to the 21st Century - please email at <a href="mailto:jenealis@aol.com">jenealis@aol.com</a>
+
+</small>
+</div>
+<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
+<img src="https://ca.slack-edge.com/T054162SPA6-U053ZD1MA3H-0bff05b16030-512" alt="drawing" width="200"/>
+</div>
+<div style="clear:both;"></div>
+</div>
