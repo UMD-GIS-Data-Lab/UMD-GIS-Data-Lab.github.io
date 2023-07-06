@@ -21,7 +21,7 @@ Our lab offers a wide range of services to assist you in your geospatial and dat
 To request a consultation or inquire about any of our services, please fill out our [service intake form](https://docs.google.com/forms/d/e/1FAIpQLSfkumtTIIvuvo7iQqKdQkoM04ukmIxp_duq2hvNcX75am67sw/viewform).
 
 
-## 👩‍💻👨‍💻 Team
+## 👩‍💻Team👨‍💻 
 
 Meet the talented individuals who make up our dedicated team:
 
@@ -37,7 +37,7 @@ Meet the talented individuals who make up our dedicated team:
 
 <small>
 
-Mr. Budhathoki leads the GIS and Data Service Center established in McKeldin Library at the University of Maryland Libraries College Park. He specializes in applying geospatial concepts to advance academic research, teaching, and learning.
+Mr. Budhathoki <b>leads the GIS and Data Service Center</b> established in McKeldin Library at the University of Maryland Libraries College Park. He specializes in applying geospatial concepts to advance academic research, teaching, and learning.
 
 The center that he manages provides complimentary services to UMD users on various aspects of geospatial data, data science, and data visualization across the campus. He oversees delivering uniquely catered GIS/Data services through consultation, workshop series, computing lab, and web resources among others.
 
@@ -49,7 +49,7 @@ The center that he manages provides complimentary services to UMD users on vario
 <div style="clear:both;"></div>
 </div>
 
-### 👨‍💻 Abhimanyu Hans
+### 👨‍💻 Abhimanyu Hans (Abhi)
 
 <sub >Role: **Data Services GA**</sub>
 
