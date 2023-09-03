@@ -1,7 +1,7 @@
 ---
 title: "Meet our Team"
 sitemap: false
-permalink: /team.html
+permalink: /team/
 ---
 Welcome to the **GIS and Data Service Lab** at the **University of Maryland Libraries**. 
 

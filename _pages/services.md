@@ -1,7 +1,7 @@
 ---
 title: "Our Services"
 sitemap: false
-permalink: /services.html
+permalink: /services/
 ---
 Welcome to the **GIS and Data Service Lab** at the **University of Maryland Libraries**. 
 

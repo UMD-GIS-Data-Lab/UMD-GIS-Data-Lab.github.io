@@ -2,7 +2,7 @@
 title: "Map of the Week"
 excerpt: "This page contains map."
 sitemap: false
-permalink: /exhibition.html
+permalink: /exhibition/
 tags:
   - Maps
   - Exhibition
