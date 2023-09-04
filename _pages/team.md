@@ -30,7 +30,7 @@ The center that he manages provides complimentary services to UMD users on vario
 </small>
 </div>
 <div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
-<img src="https://ca.slack-edge.com/T054162SPA6-U0542TVRK8D-12d98604c450-512" alt="drawing" width="200"/>
+<img src="https://www.lib.umd.edu/sites/default/files/styles/optimized/public/people/mbudhathoki.png?itok=-qOwI2tI" alt="drawing" width="200"/>
 </div>
 <div style="clear:both;"></div>
 </div>
