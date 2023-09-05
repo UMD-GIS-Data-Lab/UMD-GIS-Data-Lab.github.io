@@ -5,8 +5,8 @@ main:
     url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Exhibition"
-    url: /exhibition/
+  # - title: "Exhibition"
+  #   url: /exhibition/
   # - title: "About"
   #   url: /about/
   - title: "Services"
