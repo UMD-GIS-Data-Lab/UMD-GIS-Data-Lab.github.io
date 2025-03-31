@@ -37,7 +37,7 @@ The center that he manages provides complimentary services to UMD users on vario
 
 ### 👨‍💻 Santhi Prasanna Peesa 
 
-<sub >Role: **Statistical Services GA**</sub>
+<sub >Role: **Statistical Services- Graduate Assistant**</sub>
 
 <div style="display: flex; margin-top: -20px">
 <div class="#notice" style="  display: inline-block; margin-right: -50px; width:75%; text-align: left;">
