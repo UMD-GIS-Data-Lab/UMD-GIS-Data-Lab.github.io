@@ -59,7 +59,6 @@ I always enjoy exploring new problems in machine learning, data science, analyti
 </div>
 
 
-### 👩‍💻 Xueting Zhang (Tina)
 ### 👨‍🎓 Shujian Jin
 
 <sub >Role: **Geospatial Specialist**</sub >
