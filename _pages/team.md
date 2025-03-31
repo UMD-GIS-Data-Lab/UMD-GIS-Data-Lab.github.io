@@ -58,16 +58,16 @@ The center that he manages provides complimentary services to UMD users on vario
 </div>
 
 
-### 👨‍🎓 Shujian Jin  
-<sub>Role: **Geospatial Specialist**</sub>  
+<h3>👨‍🎓 Shujian Jin</h3>
+<sub>Role: <b>Geospatial Specialist</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
   <div style="display: inline-block; width: 75%; text-align: left;">
     <small>
-      As a recent graduate of the **Master of Science in Geographic Information Systems** program at the **University of Maryland**,  
-      I specialize in leveraging **Remote Sensing and geospatial technologies** to address pressing environmental challenges.  
+      As a recent graduate of the <b>Master of Science in Geographic Information Systems</b> program at the <b>University of Maryland</b>,  
+      I specialize in leveraging <b>Remote Sensing and geospatial technologies</b> to address pressing environmental challenges.  
       I am passionate about translating geospatial data into actionable insights and am eager to collaborate on projects  
-      involving **GIS/RS workflows, spatial modeling, or environmental sustainability**.  
+      involving <b>GIS/RS workflows, spatial modeling, or environmental sustainability</b>.  
 
       The best way to reach me is by email at <a href="mailto:sjin1239@umd.edu">sjin1239@umd.edu</a>.  
     </small>
@@ -76,16 +76,16 @@ The center that he manages provides complimentary services to UMD users on vario
   <div style="clear:both;"></div>
 </div>  
 
----
+<hr>
 
-### 👨‍🎓 Jose Anza Garcia  
-<sub>Role: **GIS Specialist**</sub>  
+<h3>👨‍🎓 Jose Anza Garcia</h3>
+<sub>Role: <b>GIS Specialist</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
   <div style="display: inline-block; width: 75%; text-align: left;">
     <small>
-      I am a recent graduate of the **Master of Science in GIS** program at **UMD**.  
-      I specialize in the **ArcGIS software suite, 3D and indoors GIS, Python, JavaScript programming, and spatial statistics**.  
+      I am a recent graduate of the <b>Master of Science in GIS</b> program at <b>UMD</b>.  
+      I specialize in the <b>ArcGIS software suite, 3D and indoors GIS, Python, JavaScript programming, and spatial statistics</b>.  
 
       The best way to reach me is by email at <a href="mailto:janzagar@umd.edu">janzagar@umd.edu</a>.  
       Please email me if you have any consultation or workshop requests on these topics.  
@@ -95,17 +95,17 @@ The center that he manages provides complimentary services to UMD users on vario
   <div style="clear:both;"></div>
 </div>  
 
----
+<hr>
 
-### 👨‍🎓 Hrugved Pawar  
-<sub>Role: **Statistical Data Consultant**</sub>  
+<h3>👨‍🎓 Hrugved Pawar</h3>
+<sub>Role: <b>Statistical Data Consultant</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
   <div style="display: inline-block; width: 75%; text-align: left;">
     <small>
-      I am a **Statistical Data Consultant**, specializing in **data analysis, statistical modeling, and data visualization**.  
+      I am a <b>Statistical Data Consultant</b>, specializing in <b>data analysis, statistical modeling, and data visualization</b>.  
       Through consultations and hands-on workshops, I help individuals derive meaningful insights from data, ensuring  
-      they make informed decisions. My expertise spans a range of analytical tools, including **Python, R, Tableau, NVivo, and Power BI**.  
+      they make informed decisions. My expertise spans a range of analytical tools, including <b>Python, R, Tableau, NVivo, and Power BI</b>.  
 
       The best way to reach me is by email at <a href="mailto:hpawar@umd.edu">hpawar@umd.edu</a>.  
     </small>
@@ -114,18 +114,18 @@ The center that he manages provides complimentary services to UMD users on vario
   <div style="clear:both;"></div>
 </div>  
 
----
+<hr>
 
-### 👩‍🎓 Anna Harmon  
-<sub>Role: **GIS Specialist**</sub>  
+<h3>👩‍🎓 Anna Harmon</h3>
+<sub>Role: <b>GIS Specialist</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
   <div style="display: inline-block; width: 75%; text-align: left;">
     <small>
-      I am a **Master’s student in Geospatial Information Science**, passionate about leveraging spatial data  
+      I am a <b>Master’s student in Geospatial Information Science</b>, passionate about leveraging spatial data  
       to tackle social and environmental challenges.  
-      I have experience with a range of **Esri tools**, including **ArcGIS Pro, ArcMap, ArcGIS Online, Hub, Dashboards, Explorer, and StoryMaps**.  
-      Additionally, I am developing skills in **workflow automation using Python and ArcPy**, as well as **spatial database creation with SQL**.  
+      I have experience with a range of <b>Esri tools</b>, including <b>ArcGIS Pro, ArcMap, ArcGIS Online, Hub, Dashboards, Explorer, and StoryMaps</b>.  
+      Additionally, I am developing skills in <b>workflow automation using Python and ArcPy</b>, as well as <b>spatial database creation with SQL</b>.  
 
       The best way to reach me is by email at <a href="mailto:aharmon8@umd.edu">aharmon8@umd.edu</a>.  
     </small>
@@ -134,16 +134,16 @@ The center that he manages provides complimentary services to UMD users on vario
   <div style="clear:both;"></div>
 </div>  
 
----
+<hr>
 
-### 👨‍🎓 Mohneet Sandhu  
-<sub>Role: **Statistical Consultant**</sub>  
+<h3>👨‍🎓 Mohneet Sandhu</h3>
+<sub>Role: <b>Statistical Consultant</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
   <div style="display: inline-block; width: 75%; text-align: left;">
     <small>
-      I’m a **Master’s student in Data Science** at the **University of Maryland**, working as a **Statistical Consultant**.  
-      I specialize in **machine learning, statistical modeling, and data visualization**, using tools like **Python, R, SPSS, SAS, SQL, Tableau, Power BI, and AWS**.  
+      I’m a <b>Master’s student in Data Science</b> at the <b>University of Maryland</b>, working as a <b>Statistical Consultant</b>.  
+      I specialize in <b>machine learning, statistical modeling, and data visualization</b>, using tools like <b>Python, R, SPSS, SAS, SQL, Tableau, Power BI, and AWS</b>.  
       I enjoy translating complex data into clear, actionable insights.  
 
       The best way to reach me is by email at <a href="mailto:mohneet@umd.edu">mohneet@umd.edu</a>.  
@@ -153,23 +153,23 @@ The center that he manages provides complimentary services to UMD users on vario
   <div style="clear:both;"></div>
 </div>  
 
----
+<hr>
 
-### 👨‍💻 Jim Nealis  
-<sub>Role: **Map Collection Volunteer**</sub>  
+<h3>👨‍💻 Jim Nealis</h3>
+<sub>Role: <b>Map Collection Volunteer</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
   <div style="display: inline-block; width: 75%; text-align: left;">
     <small>
-      I am a graduate of the **University of Maryland, College Park**, with degrees in **Geography and Sociology**.  
-      I began volunteering at the library in 2011, after my retirement from the **Washington Suburban Sanitary Commission**  
-      (the water and sewer agency serving the Maryland suburbs of D.C.), where I worked as an **assistant engineer, cartographer, and contract manager**.  
-      I like **maps and atlases** and have been the ‘curator’ of the **McKeldin map collection of over 100,000 maps** for more than ten years.  
+      I am a graduate of the <b>University of Maryland, College Park</b>, with degrees in <b>Geography and Sociology</b>.  
+      I began volunteering at the library in 2011, after my retirement from the <b>Washington Suburban Sanitary Commission</b>  
+      (the water and sewer agency serving the Maryland suburbs of D.C.), where I worked as an <b>assistant engineer, cartographer, and contract manager</b>.  
+      I like <b>maps and atlases</b> and have been the ‘curator’ of the <b>McKeldin map collection of over 100,000 maps</b> for more than ten years.  
 
-      If you need help locating a map in our procured collection—which includes maps from the **1800s to the 21st Century**—  
+      If you need help locating a map in our procured collection—which includes maps from the <b>1800s to the 21st Century</b>—  
       please email me at <a href="mailto:jenealis@aol.com">jenealis@aol.com</a>.  
     </small>
   </div>
   <div style="display: inline-block; width: 25%; text-align: right;"></div>
   <div style="clear:both;"></div>
-</div>  
+</div>
