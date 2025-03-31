@@ -35,30 +35,25 @@ The center that he manages provides complimentary services to UMD users on vario
 <div style="clear:both;"></div>
 </div>
 
-### 👨‍💻 Abhimanyu Hans (Abhi)
+### 👨‍💻 Santhi Prasanna Peesa 
 
-<sub >Role: **Data Services GA**</sub>
+<sub >Role: **Statistical Services GA**</sub>
 
 <div style="display: flex; margin-top: -20px">
 <div class="#notice" style="  display: inline-block; margin-right: -50px; width:75%; text-align: left;">
 
 <small>
-I am a graduate student at the Clarks School of Engineering. At GIS and Data Service Center, I work on Python and data sources consults and workshops.
+I am a graduate student in the **Master’s in Data Science** program. At the **GIS and Data Service Center**, I provide consultations and workshops on **R, statistical analysis, and data science techniques**.
+The best way to reach me is by email at <a href="mailto:sanpr@umd.edu">sanpr@umd.edu</a>.
 
-The best way to reach me is by email at <a href="mailto:eahans1@umd.edu">ahans1@umd.edu</a>
+I always enjoy exploring new problems in machine learning, data science, analytics, NLP, and statistics. If you have any consultation or workshop requests on these topics, feel free to email me!
 
-I am always interested in machine learning, and data science projects. If you have any consultation or workshop requests on these topics, please email me.
 
-Workshops offered by me:
-<ul>
-<li> <a href="https://umd.libcal.com/calendar/events/PythonIntro">Python Introduction</a> </li>
-<li> <a href="https://umd.libcal.com/calendar/events/data-wrangling-python">Data Wrangling with Python</a></li>
-</ul> 
 
 </small>
 </div>
 <div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
-<img src="../assets/images/AH.webp" alt="drawing" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=13Kt0T4mMQDp3d8YiDiaYSOs7uPxul4Ln" alt="Santhi Peesa" width="200"/>
 </div>
 <div style="clear:both;"></div>
 </div>
