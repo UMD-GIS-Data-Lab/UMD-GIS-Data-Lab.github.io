@@ -11,28 +11,23 @@ Welcome to the **GIS and Data Service Lab** at the **University of Maryland Libr
 
 Meet the talented individuals who make up our dedicated team:
 
-### 👨‍💻 Milan Budhathoki, GISP<sup>Ⓡ</sup>
+<h3>👨‍💻 Milan Budhathoki, GISP<sup>Ⓡ</sup></h3>
+<sub>Role: <b>GIS and Data Librarian</b></sub>
 
-<sub >Role: **GIS and Data Librarian**</sub >
+<div style="display: flex; margin-top: -10px;">
+  <div style="display: inline-block; width: 75%; text-align: left;">
+    <small>
+      Mr. Budhathoki <b>leads the GIS and Data Service Center</b> established in McKeldin Library at the University of Maryland Libraries College Park.  
+      He specializes in applying geospatial concepts to advance academic research, teaching, and learning.  
 
-<div style="display: flex;">
-<div style="  display: inline-block;
-  margin-right: -50px;
-  width:75%;
-  text-align: left;">
-
-<small>
-
-Mr. Budhathoki <b>leads the GIS and Data Service Center</b> established in McKeldin Library at the University of Maryland Libraries College Park. He specializes in applying geospatial concepts to advance academic research, teaching, and learning.
-
-The center that he manages provides complimentary services to UMD users on various aspects of geospatial data, data science, and data visualization across the campus. He oversees delivering uniquely catered GIS/Data services through consultation, workshop series, computing lab, and web resources among others.
-
-</small>
-</div>
-<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
-<img src="https://www.lib.umd.edu/sites/default/files/styles/optimized/public/people/mbudhathoki.png?itok=-qOwI2tI" alt="drawing" width="200"/>
-</div>
-<div style="clear:both;"></div>
+      The center that he manages provides complimentary services to UMD users on various aspects of geospatial data, data science, and data visualization across the campus.  
+      He oversees delivering uniquely catered GIS/Data services through consultation, workshop series, computing lab, and web resources, among others.  
+    </small>
+  </div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+    <img src="https://www.lib.umd.edu/sites/default/files/styles/optimized/public/people/mbudhathoki.png?itok=-qOwI2tI" alt="Milan Budhathoki" width="200"/>
+  </div>
+  <div style="clear:both;"></div>
 </div>
 
 <h3>👨‍🎓 Santhi Prasanna Peesa</h3>
