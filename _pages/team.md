@@ -60,77 +60,93 @@ I always enjoy exploring new problems in machine learning, data science, analyti
 
 
 ### 👩‍💻 Xueting Zhang (Tina)
+### 👨‍🎓 Shujian Jin
 
-<sub >Role: **GIS Student Assistant**</sub >
+<sub >Role: **Geospatial Specialist**</sub >
 <div style="display: flex;">
-<div style="  display: inline-block;
-  margin-right: -50px;
-  width:75%;
-  text-align: left;">
+<div style="display: inline-block; margin-right: -50px; width:75%; text-align: left;">
 
 <small>
 
-I am a graduate student at the Department of Geographical Sciences. At GIS and Data Service Center, I specialize and work on Storymapping and ArcGIS software suite. I take GIS and related data analysis consultations.
+As a recent graduate of the Master of Science in Geographic Information Systems program at the University of Maryland, I specialize in leveraging Remote Sensing and geospatial technologies to address pressing environmental challenges. I am passionate about translating geospatial data into actionable insights and am eager to collaborate on projects involving GIS/RS workflows, spatial modeling, or environmental sustainability.
 
-The best way to reach me is by email at <a href="mailto:xueting@umd.edu">xueting@umd.edu</a>
-
-Please email me if you have any consultation or workshop requests on these topics.
+The best way to reach me is by email at <a href="mailto:sjin1239@umd.edu">sjin1239@umd.edu</a>
 
 </small>
 </div>
-<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
-<!-- <img src="https://ca.slack-edge.com/T054162SPA6-U053LV9MB1D-29fae2dee364-512" alt="drawing" width="200"/> -->
-</div>
+<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px"></div>
 <div style="clear:both;"></div>
 </div>
 
-### 👨‍💻 Mohak Verma
+### 👨‍🎓 Jose Anza Garcia
 
-<sub >Role: **Data and Statistical Consultant**</sub >
+<sub >Role: **GIS Specialist**</sub >
 <div style="display: flex;">
-<div style="  display: inline-block;
-  margin-right: -50px;
-  width:75%;
-  text-align: left;">
+<div style="display: inline-block; margin-right: -50px; width:75%; text-align: left;">
 
 <small>
 
-I am a graduate student at the Robert H Smith School of Business. At GIS and Data Service Center, I specialize and work on NVivo, data visualization software statistical analysis. I take statistical data and qualitative data analysis consultations.
+I am a recent graduate of the Master of Science in GIS program at UMD. I specialize in the ArcGIS software suite, 3D and indoors GIS, Python and JavaScript programming, and spatial statistics.
 
-The best way to reach me is by email at <a href="mailto:mverma12@umd.edu">mverma12@umd.edu</a>
-
-I have a keen interest in data science and analytics. Please email me if you have any consultation or workshop requests on these topics.
+The best way to reach me is by email at <a href="mailto:janzagar@umd.edu">janzagar@umd.edu</a>. Please email me if you have any consultation or workshop requests on these topics.
 
 </small>
-
 </div>
-<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
-<img src="https://ca.slack-edge.com/T054162SPA6-U053UHRDTT8-df77d9ccaf3a-512" alt="drawing" width="200"/>
-</div>
+<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px"></div>
 <div style="clear:both;"></div>
 </div>
 
+### 👨‍🎓 Hrugved Pawar
 
-### 👨‍💻 Sakar Phuyal
-
-<sub >Role: **Data Assistant**</sub >
+<sub >Role: **Statistical Data Consultant**</sub >
 <div style="display: flex;">
-<div style="  display: inline-block;
-  margin-right: -50px;
-  width:75%;
-  text-align: left;">
+<div style="display: inline-block; margin-right: -50px; width:75%; text-align: left;">
 
 <small>
 
- I am a graduate student in the Robert H Smith School of Business specializing in business analytics, with a broad range of expertise in Python, R, Excel, SQL, and Tableau. Throughout my academic journey, I have developed a strong foundation in business analytics, applying various programming languages and tools to extract valuable insights from complex datasets. At the GIS and data services center, I perform data cleaning, exploratory data analysis, and work on Surveys, updating workshop material and Tableau for data visualization purposes. I also take consultations on Python, R, Excel, SQL, and Tableau.
- 
-The best way to reach me is by email at <a href="mailto:sakarp07@umd.edu">sakarp07@umd.edu</a>
+I am a Statistical Data Consultant specializing in data analysis, statistical modeling, and data visualization. Through consultations and hands-on workshops, I help individuals derive meaningful insights from data, ensuring they make informed decisions. My expertise spans a range of analytical tools, including Python, R, Tableau, NVivo, and Power BI.
+
+The best way to reach me is by email at <a href="mailto:hpawar@umd.edu">hpawar@umd.edu</a>
 
 </small>
 </div>
-<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
-<img src="https://ca.slack-edge.com/T054162SPA6-U053ZD1MA3H-0bff05b16030-512" alt="drawing" width="200"/>
+<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px"></div>
+<div style="clear:both;"></div>
 </div>
+
+### 👩‍🎓 Anna Harmon
+
+<sub >Role: **GIS Specialist**</sub >
+<div style="display: flex;">
+<div style="display: inline-block; margin-right: -50px; width:75%; text-align: left;">
+
+<small>
+
+I am a Master’s student in Geospatial Information Science, passionate about leveraging spatial data to tackle social and environmental challenges. I have experience with a range of Esri tools, including ArcGIS Pro, ArcMap, ArcGIS Online, Hub, Dashboards, Explorer, and StoryMaps. Additionally, I am developing skills in workflow automation using Python and ArcPy, as well as spatial database creation with SQL.
+
+The best way to reach me is by email at <a href="mailto:aharmon8@umd.edu">aharmon8@umd.edu</a>
+
+</small>
+</div>
+<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px"></div>
+<div style="clear:both;"></div>
+</div>
+
+### 👨‍🎓 Mohneet Sandhu
+
+<sub >Role: **Statistical Consultant**</sub >
+<div style="display: flex;">
+<div style="display: inline-block; margin-right: -50px; width:75%; text-align: left;">
+
+<small>
+
+I’m a Master’s student in Data Science at the University of Maryland, working as a Statistical Consultant. I specialize in machine learning, statistical modeling, and data visualization using tools like Python, R, SPSS, SAS, SQL, Tableau, Power BI, and AWS. I enjoy translating complex data into clear, actionable insights.
+
+The best way to reach me is by email at <a href="mailto:mohneet@umd.edu">mohneet@umd.edu</a>
+
+</small>
+</div>
+<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px"></div>
 <div style="clear:both;"></div>
 </div>
 
