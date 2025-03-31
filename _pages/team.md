@@ -30,7 +30,7 @@ Meet the talented individuals who make up our dedicated team:
   <div style="clear:both;"></div>
 </div>
 
-<h3>👨‍🎓 Santhi Prasanna Peesa</h3>
+<h3>👩‍🎓 Santhi Prasanna Peesa</h3>
 <sub>Role: <b>Statistical Data Consultant-GA</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
@@ -130,7 +130,7 @@ Meet the talented individuals who make up our dedicated team:
 
 <hr>
 
-<h3>👨‍🎓 Mohneet Sandhu</h3>
+<h3>👩‍🎓 Mohneet Sandhu</h3>
 <sub>Role: <b>Statistical Consultant</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
