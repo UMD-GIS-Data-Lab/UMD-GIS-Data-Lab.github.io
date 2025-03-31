@@ -37,13 +37,13 @@ The center that he manages provides complimentary services to UMD users on vario
 
 ### 👨‍💻 Santhi Prasanna Peesa 
 
-<sub >Role: **Statistical Services- Graduate Assistant**</sub>
+<sub >Role: **Statistical Data Consultant-GA**</sub>
 
 <div style="display: flex; margin-top: -20px">
 <div class="#notice" style="  display: inline-block; margin-right: -50px; width:75%; text-align: left;">
 
 <small>
-I am a graduate student in the **Master’s in Data Science** program. At the **GIS and Data Service Center**, I provide consultations and workshops on **R, statistical analysis, and data science techniques**.
+I am a graduate student in the Master’s in Data Science program at the University of Maryland. At the **GIS and Data Service Center**, I provide consultations and workshops on **R, Python, SAS, statistical analysis, and data science techniques**.
 
 The best way to reach me is by email at <a href="mailto:sanpr@umd.edu">sanpr@umd.edu</a>.
 
