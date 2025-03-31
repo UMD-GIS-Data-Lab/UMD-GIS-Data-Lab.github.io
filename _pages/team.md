@@ -37,25 +37,24 @@ The center that he manages provides complimentary services to UMD users on vario
 
 ### 👨‍💻 Santhi Prasanna Peesa 
 
-<sub >Role: **Statistical Data Consultant-GA**</sub>
+<sub>Role: **Statistical Data Consultant-GA**</sub>
 
-<div style="display: flex; margin-top: -20px">
-<div class="#notice" style="  display: inline-block; margin-right: -50px; width:75%; text-align: left;">
+<div style="display: flex; margin-top: -20px;">
+  <div style="display: inline-block; width: 75%; text-align: left; margin-right: 10px;">
+    <small>
+      I am a graduate student in the <b>Master’s in Data Science</b> program at the University of Maryland.  
+      At the <b>GIS and Data Service Center</b>, I provide consultations and workshops on <b>R, Python, SAS, statistical analysis, and data science techniques</b>.  
 
-<small>
-I am a graduate student in the Master’s in Data Science program at the University of Maryland. At the GIS and Data Service Center, I provide consultations and workshops on R, Python, SAS, statistical analysis, and data science techniques.
+      The best way to reach me is by email at <a href="mailto:sanpr@umd.edu">sanpr@umd.edu</a>.  
 
-The best way to reach me is by email at <a href="mailto:sanpr@umd.edu">sanpr@umd.edu</a>.
-
-I always enjoy exploring new problems in machine learning, data science, analytics, NLP, and statistical methodologies. If you have any consultation or workshop requests on these topics, feel free to email me!
-
-
-</small>
-</div>
-<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
-<img src="https://drive.google.com/uc?export=view&id=13Kt0T4mMQDp3d8YiDiaYSOs7uPxul4Ln" alt="Santhi Peesa" width="200"/>
-</div>
-<div style="clear:both;"></div>
+      I always enjoy exploring new problems in machine learning, data science, analytics, NLP, and statistical methodologies.  
+      If you have any consultation or workshop requests on these topics, feel free to email me!  
+    </small>
+  </div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+    <img src="https://drive.google.com/uc?export=view&id=13Kt0T4mMQDp3d8YiDiaYSOs7uPxul4Ln" alt="Santhi Peesa" width="200"/>
+  </div>
+  <div style="clear:both;"></div>
 </div>
 
 
