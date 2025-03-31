@@ -35,12 +35,11 @@ The center that he manages provides complimentary services to UMD users on vario
 <div style="clear:both;"></div>
 </div>
 
-### 👨‍💻 Santhi Prasanna Peesa 
+<h3>👨‍🎓 Santhi Prasanna Peesa</h3>
+<sub>Role: <b>Statistical Data Consultant-GA</b></sub>
 
-<sub>Role: **Statistical Data Consultant-GA**</sub>
-
-<div style="display: flex; margin-top: -20px;">
-  <div style="display: inline-block; width: 75%; text-align: left; margin-right: 10px;">
+<div style="display: flex; margin-top: -10px;">
+  <div style="display: inline-block; width: 75%; text-align: left;">
     <small>
       I am a graduate student in the <b>Master’s in Data Science</b> program at the University of Maryland.  
       At the <b>GIS and Data Service Center</b>, I provide consultations and workshops on <b>R, Python, SAS, statistical analysis, and data science techniques</b>.  
@@ -55,7 +54,7 @@ The center that he manages provides complimentary services to UMD users on vario
     <img src="https://drive.google.com/uc?export=view&id=13Kt0T4mMQDp3d8YiDiaYSOs7uPxul4Ln" alt="Santhi Peesa" width="200"/>
   </div>
   <div style="clear:both;"></div>
-</div>
+</div>  
 
 
 <h3>👨‍🎓 Shujian Jin</h3>
