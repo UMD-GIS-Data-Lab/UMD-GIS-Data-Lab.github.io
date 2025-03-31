@@ -43,7 +43,7 @@ The center that he manages provides complimentary services to UMD users on vario
 <div class="#notice" style="  display: inline-block; margin-right: -50px; width:75%; text-align: left;">
 
 <small>
-I am a graduate student in the Master’s in Data Science program at the University of Maryland. At the **GIS and Data Service Center**, I provide consultations and workshops on **R, Python, SAS, statistical analysis, and data science techniques**.
+I am a graduate student in the Master’s in Data Science program at the University of Maryland. At the GIS and Data Service Center, I provide consultations and workshops on R, Python, SAS, statistical analysis, and data science techniques.
 
 The best way to reach me is by email at <a href="mailto:sanpr@umd.edu">sanpr@umd.edu</a>.
 
