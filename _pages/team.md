@@ -48,10 +48,6 @@ I am a graduate student in the Master’s in Data Science program at the Univers
 The best way to reach me is by email at <a href="mailto:sanpr@umd.edu">sanpr@umd.edu</a>.
 
 I always enjoy exploring new problems in machine learning, data science, analytics, NLP, and statistical methodologies. If you have any consultation or workshop requests on these topics, feel free to email me!
-</small>
-</div>
-</div>
-
 
 
 </small>
