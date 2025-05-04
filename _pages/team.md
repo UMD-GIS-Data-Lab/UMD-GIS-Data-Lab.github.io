@@ -46,7 +46,7 @@ Meet the talented individuals who make up our dedicated team:
     </small>
   </div>
   <div style="display: inline-block; width: 25%; text-align: right;">
-    <img src="https://drive.google.com/uc?export=view&id=13Kt0T4mMQDp3d8YiDiaYSOs7uPxul4Ln" alt="Santhi Peesa" width="200"/>
+    <img src="_pages/SanthiP.jpg" alt="Santhi Peesa" width="200"/>
   </div>
   <div style="clear:both;"></div>
 </div>  
