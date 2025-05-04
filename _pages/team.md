@@ -66,11 +66,11 @@ Meet the talented individuals who make up our dedicated team:
       The best way to reach me is by email at <a href="mailto:sjin1239@umd.edu">sjin1239@umd.edu</a>.  
     </small>
   </div>
-  <div style="display: inline-block; width: 25%; text-align: right;"></div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+    <img src="/_pages/Shujian.jpg" alt="Shujian Jin" width="200"/>
+  </div>
   <div style="clear:both;"></div>
 </div>  
-
-<hr>
 
 <h3>👨‍🎓 Jose Anza Garcia</h3>
 <sub>Role: <b>GIS Specialist</b></sub>
@@ -85,11 +85,11 @@ Meet the talented individuals who make up our dedicated team:
       Please email me if you have any consultation or workshop requests on these topics.  
     </small>
   </div>
-  <div style="display: inline-block; width: 25%; text-align: right;"></div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+    <img src="/_pages/Jose.jpg" alt="Jose Anza Garcia" width="200"/>
+  </div>
   <div style="clear:both;"></div>
 </div>  
-
-<hr>
 
 <h3>👨‍🎓 Hrugved Pawar</h3>
 <sub>Role: <b>Statistical Data Consultant</b></sub>
@@ -124,11 +124,11 @@ Meet the talented individuals who make up our dedicated team:
       The best way to reach me is by email at <a href="mailto:aharmon8@umd.edu">aharmon8@umd.edu</a>.  
     </small>
   </div>
-  <div style="display: inline-block; width: 25%; text-align: right;"></div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+    <img src="/_pages/Anna.jpg" alt="Anna Harmon" width="200"/>
+  </div>
   <div style="clear:both;"></div>
 </div>  
-
-<hr>
 
 <h3>👩‍🎓 Mohneet Sandhu</h3>
 <sub>Role: <b>Statistical Consultant</b></sub>
