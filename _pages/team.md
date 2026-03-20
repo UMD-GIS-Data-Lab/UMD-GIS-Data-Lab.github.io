@@ -71,6 +71,23 @@ The best way to reach me is by email at <a href="mailto:ihnatiuk@umd.edu">ihnati
   <div style="clear:both;"></div>
 </div>  
 
+<h3>👩‍🎓 Mohneet Sandhu</h3>
+<sub>Role: <b>Statistical Consultant</b></sub>
+
+<div style="display: flex; margin-top: -10px;">
+  <div style="display: inline-block; width: 75%; text-align: left;">
+    <small>
+I’m a <b>Master’s student in Data Science</b> at the <b>University of Maryland</b>, working as a <b>Statistical Consultant</b>.  
+I specialize in <b>machine learning, statistical modeling, and data visualization</b>, using tools like <b>Python, R, SPSS, SAS, SQL, Tableau, Power BI, and AWS</b>.  
+I enjoy translating complex data into clear, actionable insights.  
+
+The best way to reach me is by email at <a href="mailto:mohneet@umd.edu">mohneet@umd.edu</a>.  
+    </small>
+  </div>
+  <div style="display: inline-block; width: 25%; text-align: right;"></div>
+  <div style="clear:both;"></div>
+</div>  
+
 <h3>👨‍🎓 Jonathan</h3>
 <sub>Role: <b>GIS Specialist</b></sub>
 
@@ -111,24 +128,6 @@ Feel free to reach out to me at <a href="mailto:smshank@terpmail.umd.edu">smshan
   <div style="clear:both;"></div>
 </div>  
 
-<h3>👩‍🎓 Mohneet Sandhu</h3>
-<sub>Role: <b>Statistical Consultant</b></sub>
-
-<div style="display: flex; margin-top: -10px;">
-  <div style="display: inline-block; width: 75%; text-align: left;">
-    <small>
-I’m a <b>Master’s student in Data Science</b> at the <b>University of Maryland</b>, working as a <b>Statistical Consultant</b>.  
-I specialize in <b>machine learning, statistical modeling, and data visualization</b>, using tools like <b>Python, R, SPSS, SAS, SQL, Tableau, Power BI, and AWS</b>.  
-I enjoy translating complex data into clear, actionable insights.  
-
-The best way to reach me is by email at <a href="mailto:mohneet@umd.edu">mohneet@umd.edu</a>.  
-    </small>
-  </div>
-  <div style="display: inline-block; width: 25%; text-align: right;"></div>
-  <div style="clear:both;"></div>
-</div>  
-
-<hr>
 
 <h3>👨‍💻 Jim Nealis</h3>
 <sub>Role: <b>Map Collection Volunteer</b></sub>
