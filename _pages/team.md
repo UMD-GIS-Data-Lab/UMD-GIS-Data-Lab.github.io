@@ -51,81 +51,62 @@ Meet the talented individuals who make up our dedicated team:
   <div style="clear:both;"></div>
 </div>  
 
-
-<h3>👨‍🎓 Shujian Jin</h3>
-<sub>Role: <b>Geospatial Specialist</b></sub>
-
-<div style="display: flex; margin-top: -10px;">
-  <div style="display: inline-block; width: 75%; text-align: left;">
-    <small>
-      As a recent graduate of the <b>Master of Science in Geographic Information Systems</b> program at the <b>University of Maryland</b>,  
-      I specialize in leveraging <b>Remote Sensing and geospatial technologies</b> to address pressing environmental challenges.  
-      I am passionate about translating geospatial data into actionable insights and am eager to collaborate on projects  
-      involving <b>GIS/RS workflows, spatial modeling, or environmental sustainability</b>.  
-
-      The best way to reach me is by email at <a href="mailto:sjin1239@umd.edu">sjin1239@umd.edu</a>.  
-    </small>
-  </div>
-  <div style="display: inline-block; width: 25%; text-align: right;">
-    <img src="/_pages/Shujian.jpg" alt="Shujian Jin" width="200"/>
-  </div>
-  <div style="clear:both;"></div>
-</div>  
-
-<h3>👨‍🎓 Jose Anza Garcia</h3>
+<h3>👩‍🎓 Maria Ihnatiuk</h3>
 <sub>Role: <b>GIS Specialist</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
   <div style="display: inline-block; width: 75%; text-align: left;">
     <small>
-      I am a recent graduate of the <b>Master of Science in GIS</b> program at <b>UMD</b>.  
-      I specialize in the <b>ArcGIS software suite, 3D and indoors GIS, Python, JavaScript programming, and spatial statistics</b>.  
+      I am a Master’s student in <b>Geospatial Information Science</b> with a strong interest in <b>spatial analysis and geospatial data visualization</b>.  
+      I have experience working with <b>ArcGIS Pro</b> for mapping and advanced spatial analysis, as well as other Esri products, including <b>ArcGIS Online, StoryMaps, and Dashboards</b>.  
+      I am continuing to develop my programming skills for GIS applications and expanding my knowledge of <b>geospatial database management using SQL</b>.  
+      In addition to GIS, I am also interested in applying <b>remote sensing techniques</b> to support environmental and spatial research.  
 
-      The best way to reach me is by email at <a href="mailto:janzagar@umd.edu">janzagar@umd.edu</a>.  
-      Please email me if you have any consultation or workshop requests on these topics.  
+      The best way to reach me is by email at <a href="mailto:ihnatiuk@umd.edu">ihnatiuk@umd.edu</a>.  
     </small>
   </div>
   <div style="display: inline-block; width: 25%; text-align: right;">
-    <img src="/_pages/Jose.jpg" alt="Jose Anza Garcia" width="200"/>
+    <img src="/_pages/maria.png" alt="Maria Ihnatiuk" width="200"/>
   </div>
   <div style="clear:both;"></div>
 </div>  
 
-<h3>👨‍🎓 Hrugved Pawar</h3>
-<sub>Role: <b>Statistical Data Consultant</b></sub>
-
-<div style="display: flex; margin-top: -10px;">
-  <div style="display: inline-block; width: 75%; text-align: left;">
-    <small>
-      I am a <b>Statistical Data Consultant</b>, specializing in <b>data analysis, statistical modeling, and data visualization</b>.  
-      Through consultations and hands-on workshops, I help individuals derive meaningful insights from data, ensuring  
-      they make informed decisions. My expertise spans a range of analytical tools, including <b>Python, R, Tableau, NVivo, and Power BI</b>.  
-
-      The best way to reach me is by email at <a href="mailto:hpawar@umd.edu">hpawar@umd.edu</a>.  
-    </small>
-  </div>
-  <div style="display: inline-block; width: 25%; text-align: right;"></div>
-  <div style="clear:both;"></div>
-</div>  
-
-<hr>
-
-<h3>👩‍🎓 Anna Harmon</h3>
+<h3>👨‍🎓 Jonathan</h3>
 <sub>Role: <b>GIS Specialist</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
   <div style="display: inline-block; width: 75%; text-align: left;">
     <small>
-      I am a <b>Master’s student in Geospatial Information Science</b>, passionate about leveraging spatial data  
-      to tackle social and environmental challenges.  
-      I have experience with a range of <b>Esri tools</b>, including <b>ArcGIS Pro, ArcMap, ArcGIS Online, Hub, Dashboards, Explorer, and StoryMaps</b>.  
-      Additionally, I am developing skills in <b>workflow automation using Python and ArcPy</b>, as well as <b>spatial database creation with SQL</b>.  
+      I’m a current grad student at UMD, studying <b>Geographic Information Science</b>.  
+      At McKeldin, I assist in supporting UMD faculty, students, and staff with various geospatial needs, including <b>one-on-one consultations, group workshops, and hands-on technical assistance</b>.  
 
-      The best way to reach me is by email at <a href="mailto:aharmon8@umd.edu">aharmon8@umd.edu</a>.  
+      I bring a range of previous experiences to this role, having formerly worked as a <b>Project Manager, Operations Coordinator, Tour Guide, Summer Camp Counselor, and Soccer Referee</b>.  
+      My favorite subtopic areas of geospatial science are human geography related, and include <b>real estate, transportation accessibility and impact, demographics, and electoral analysis</b>.  
+
+      In my free time, I enjoy watching soccer, reading, going to the gym, and exploring DC's local bar scene.  
     </small>
   </div>
   <div style="display: inline-block; width: 25%; text-align: right;">
-    <img src="/_pages/Anna.jpg" alt="Anna Harmon" width="200"/>
+    <img src="/_pages/johnathan.jped" alt="Jonathan" width="200"/>
+  </div>
+  <div style="clear:both;"></div>
+</div>  
+
+<h3>👩‍🎓 Stella Shanker</h3>
+<sub>Role: <b>GIS Specialist</b></sub>
+
+<div style="display: flex; margin-top: -10px;">
+  <div style="display: inline-block; width: 75%; text-align: left;">
+    <small>
+      I am a <b>fourth-year undergraduate student in Geospatial Data Science</b>.  
+      I work extensively with the <b>Esri suite (ArcGIS Pro, ArcGIS Online)</b>, as well as <b>QGIS and RStudio</b>.  
+      I am particularly interested in <b>urban spatial analysis, spatial statistics, and 3D GIS</b>.  
+
+      Feel free to reach out to me at <a href="mailto:smshank@terpmail.umd.edu">smshank@terpmail.umd.edu</a> if you have any questions on these topics.  
+    </small>
+  </div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+    <img src="/_pages/stella.jepg" alt="Stella Shanker" width="200"/>
   </div>
   <div style="clear:both;"></div>
 </div>  
