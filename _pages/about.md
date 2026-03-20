@@ -89,6 +89,27 @@ The best way to reach me is by email at <a href="mailto:ihnatiuk@umd.edu">ihnati
 <div style="clear:both;"></div>
 </div>
 
+### 👩‍🎓 Mohneet Sandhu
+
+<sub>Role: **Statistical Consultant**</sub>
+
+<div style="display: flex;">
+<div style="display: inline-block; margin-right: -50px; width:75%; text-align: left;">
+
+<small>
+
+I’m a Master’s student in Data Science at the University of Maryland, working as a Statistical Consultant. I specialize in machine learning, statistical modeling, and data visualization, using tools like Python, R, SPSS, SAS, SQL, Tableau, Power BI, and AWS. I enjoy translating complex data into clear, actionable insights.
+
+The best way to reach me is by email at <a href="mailto:mohneet@umd.edu">mohneet@umd.edu</a>.
+
+</small>
+</div>
+<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
+</div>
+<div style="clear:both;"></div>
+</div>
+
+
 ### 👨‍🎓 Jonathan
 
 <sub>Role: **GIS Specialist**</sub>
@@ -129,26 +150,6 @@ Feel free to reach out to me at <a href="mailto:smshank@terpmail.umd.edu">smshan
 </div>
 <div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
 <img src="/_pages/stella.jpeg" alt="Stella Shanker" width="200"/>
-</div>
-<div style="clear:both;"></div>
-</div>
-
-### 👩‍🎓 Mohneet Sandhu
-
-<sub>Role: **Statistical Consultant**</sub>
-
-<div style="display: flex;">
-<div style="display: inline-block; margin-right: -50px; width:75%; text-align: left;">
-
-<small>
-
-I’m a Master’s student in Data Science at the University of Maryland, working as a Statistical Consultant. I specialize in machine learning, statistical modeling, and data visualization, using tools like Python, R, SPSS, SAS, SQL, Tableau, Power BI, and AWS. I enjoy translating complex data into clear, actionable insights.
-
-The best way to reach me is by email at <a href="mailto:mohneet@umd.edu">mohneet@umd.edu</a>.
-
-</small>
-</div>
-<div style="display: inline-block; margin-right: -300px; width:50%; text-align: right; padding:0px">
 </div>
 <div style="clear:both;"></div>
 </div>
