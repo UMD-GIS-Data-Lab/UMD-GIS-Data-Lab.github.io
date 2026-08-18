@@ -93,6 +93,23 @@ please email me at <a href="mailto:jenealis@aol.com">jenealis@aol.com</a>.
   <div style="clear:both;"></div>
 </div>
 
+<h3>👩‍🎓 Amylee Anyoha </h3>
+<sub>Role: <b>Statistical Consultant</b></sub>
+
+<div style="display: flex; margin-top: -10px;">
+  <div style="display: inline-block; width: 75%; text-align: left;">
+    <small>
+I hold an <b>MSPH </b> and am currently a <b> PhD candidate in Health Services Research </b>. Over the past 8 years, I've worked across academic, federal (CDC), and state public health sectors, designing and delivering more than 30 training sessions to support data-informed community research and evidence-based decision-making.
+I've worked as an epidemiologist and data consultant, building data and analytic workflows and supporting program evaluation for aging and dementia initiatives, as well as providing epidemiologic support for more than 200 COVID-19 outbreak investigations. I'm originally from Connecticut, and outside of work I enjoy international travel, DIY projects, and working as a certified fitness instructor.   
+    </small>
+  </div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+    <img src="/_pages/Amy.jpeg" alt="Amy" width="200"/>
+  </div>
+  <div style="clear:both;"></div>
+</div>  
+
+
 <h3>👩‍🎓 Apoorva Verma </h3>
 <sub>Role: <b>Statistical Data Consultant</b></sub>
 
@@ -114,26 +131,6 @@ for link prediction. In my free time, I enjoy live music performances and going 
   <div style="clear:both;"></div>
 </div>
 
-
-<h3>👩‍🎓 Amylee Anyoha </h3>
-<sub>Role: <b>Statistical Data Consultant</b></sub>
-
-<div style="display: flex; margin-top: -10px;">
-  <div style="display: inline-block; width: 75%; text-align: left;">
-    <small>
-I am a <b> doctoral student </b> in the Department of Human Development and Quantitative Methodology at the University of Maryland, pursuing a degree in
-<b> Quantitative Methodology: Measurement & Statistics. </b>
-At the GIS and Data Service Center, I offer workshops on <b> data cleaning, analysis, and visualization in R </b>. I also provide consultations on machine learning,
-causal inference, generalized linear models, measurement models (IRT/SEM), and data wrangling. 
-My research interests lie at the intersection of social network analysis and machine learning, particularly leveraging statistical learning and resampling techniques
-for link prediction. In my free time, I enjoy live music performances and going on hikes.  
-    </small>
-  </div>
-  <div style="display: inline-block; width: 25%; text-align: right;">
-    <img src="/_pages/Amy.jpeg" alt="Amy" width="200"/>
-  </div>
-  <div style="clear:both;"></div>
-</div>  
 
 
 <!-- -------------------------------------------------------------------------- -- >
