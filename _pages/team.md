@@ -25,7 +25,7 @@ He oversees delivering uniquely catered GIS/Data services through consultation, 
     </small>
   </div>
   <div style="display: inline-block; width: 25%; text-align: right;">
-    <img src ="https://www.lib.umd.edu/sites/default/files/mbudhathoki.png" alt = "Milan Budhathoki" width = "200" />
+    <img src="https://www.lib.umd.edu/sites/default/files/mbudhathoki.png" alt="Milan Budhathoki" width="200" />
   </div>
   <div style="clear:both;"></div>
 </div>
