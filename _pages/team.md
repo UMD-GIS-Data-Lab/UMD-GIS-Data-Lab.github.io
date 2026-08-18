@@ -115,6 +115,27 @@ for link prediction. In my free time, I enjoy live music performances and going 
 </div>
 
 
+<h3>👩‍🎓 Amylee Anyoha </h3>
+<sub>Role: <b>Statistical Data Consultant</b></sub>
+
+<div style="display: flex; margin-top: -10px;">
+  <div style="display: inline-block; width: 75%; text-align: left;">
+    <small>
+I am a <b> doctoral student </b> in the Department of Human Development and Quantitative Methodology at the University of Maryland, pursuing a degree in
+<b> Quantitative Methodology: Measurement & Statistics. </b>
+At the GIS and Data Service Center, I offer workshops on <b> data cleaning, analysis, and visualization in R </b>. I also provide consultations on machine learning,
+causal inference, generalized linear models, measurement models (IRT/SEM), and data wrangling. 
+My research interests lie at the intersection of social network analysis and machine learning, particularly leveraging statistical learning and resampling techniques
+for link prediction. In my free time, I enjoy live music performances and going on hikes.  
+    </small>
+  </div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+    <img src="/_pages/Amy.jpeg" alt="Amy" width="200"/>
+  </div>
+  <div style="clear:both;"></div>
+</div>  
+
+
 <!-- -------------------------------------------------------------------------- -- >
 <!-- COMMENTING OUT PREV MEMBER DESCRIPTIONS -->
 <!-- -------------------------------------------------------------------------- -- >
