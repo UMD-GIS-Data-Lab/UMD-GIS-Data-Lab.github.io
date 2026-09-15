@@ -132,6 +132,25 @@ for link prediction. In my free time, I enjoy live music performances and going 
 </div>
 
 
+<h3>👨‍🎓 Alexander Maksiaev </h3>
+<sub>Role: <b> Data Specialist</b></sub>
+
+<div style="display: flex; margin-top: -10px;">
+  <div style="display: inline-block; width: 75%; text-align: left;">
+    <small>
+
+I am a <b>graduate student</b> at the University of Maryland studying <b>Library and Information Science</b>, with dual undergraduate degrees in Cognitive Science and Computer Science from the University of Virginia. My primary specialty is <b>Python</b>, though I do also have some R knowledge. Prior to my time at UMD, I worked as a research fellow at the National Institutes of Health, where I developed Python-based data pipelines to <b>extract, clean, and organize data</b> from large research databases. At the GIS and Data Service Center, I hold workshops introducing Python, assist patrons through the help desk, and provide individual consultations. My main professional interest lies in making complex data more useful and accessible to others. In my free time, I crochet, draw, and write fiction.
+
+    </small>
+  </div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+    <img src="/_pages/Alexander.jpg" alt="Alexander" width="200"/>
+  </div>
+  <div style="clear:both;"></div>
+</div>
+
+
+
 
 <!-- -------------------------------------------------------------------------- -- >
 <!-- COMMENTING OUT PREV MEMBER DESCRIPTIONS -->
