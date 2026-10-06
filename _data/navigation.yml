@@ -13,3 +13,5 @@ main:
     url: /services/
   - title: "Team"
     url: /team/
+  - title: "Workshops"/
+    url: /workshops/
