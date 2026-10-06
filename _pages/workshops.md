@@ -3,11 +3,11 @@ permalink: /workshops/
 title: "Workshops"
 ---
 
+<small>
 At the **GIS and Data Service Lab** at the **University of Maryland Libraries**, we offer workshops spanning geospatial data, data science, and data visualization uisng a range of statistical software: ArcGIS, Python, SAS, R, NVivo, SQL, PowerBI, and Tableau.
 
 Here is a list of workshops that are part of our programming. The titles link to basic materials, including slides and code.
 
-<small>
 
 **Statistical & Data Analysis**
 
