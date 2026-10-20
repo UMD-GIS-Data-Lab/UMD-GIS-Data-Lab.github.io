@@ -157,7 +157,9 @@ I am a <b>graduate student</b> at the University of Maryland studying <b>Library
 I am a graduate student at the University of Maryland, studying <b>Geographic Information Science</b>, with a background in Applied Data Science. I have experience working with <b>ArcGIS Pro, ArcGIS Online, and StoryMaps</b> for mapping and spatial analysis. Some of my previous projects include <b>flood hazard exposure mapping, transportation accessibility analysis, and housing price prediction.</b> My interests include remote sensing, spatial analysis, and geospatial research. If you want to reach out to me use <a href="mailto:kaushit@umd.edu">kaushit@umd.edu</a>.
     </small>
   </div>
-  <div style="display: inline-block; width: 25%; text-align: right;"></div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+  <img src="/_pages/Tushar.jpg" alt="Tushar" width="200"/>
+  </div>
   <div style="clear:both;"></div>
 </div>
 
