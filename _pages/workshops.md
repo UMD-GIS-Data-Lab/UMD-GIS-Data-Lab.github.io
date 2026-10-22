@@ -88,9 +88,14 @@ Below is a list of workshops offered through our programming. Workshop titles li
 
 </div>
 
+<div style="flex: 1 1 300px; padding: 20px; border: 1px solid #ddd; border-radius: 6px;">
+
 <h3>Maps</h3>
+
 <ul>
-<li> Map Tour with Jim Nealis (offered in person) </li> 
+<li>Map Tour with Jim Nealis (offered in person)</li>
 </ul>
+
+</div>
 
 </div>
