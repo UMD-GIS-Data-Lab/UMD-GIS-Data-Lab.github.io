@@ -16,28 +16,41 @@ Below is a list of workshops offered through our programming. Workshop titles li
 <p><strong>R</strong></p>
 
 <ul>
-<li><a href="LINK">Introduction to R</a></li>
-<li><a href="LINK">Linear Regression</a></li>
-<li><a href="LINK">Multiple Regression</a></li>
-<li><a href="LINK">Data Visualization</a></li>
-<li><a href="LINK">Data Mining</a></li>
+<li><a href="https://drive.google.com/drive/folders/1Ue6dL-ugk8bILhIl3cfrJ_f6l-fcCplm?usp=drive_link">Introduction to R</a></li>
+<li><a href="https://drive.google.com/drive/folders/1eTb55pYIbvHGqnhAAPEfmhlIP8AYllfH?usp=drive_link">Linear Regression</a></li>
+<li><a href="https://drive.google.com/drive/folders/1mzQIYwhNMg4LCtu0F6EtzIFKKI2CLLIs?usp=drive_link">Multiple Regression</a></li>
+<li><a href="https://drive.google.com/drive/folders/1LNfqulWQqEEQxa751vamr2CPXVoob-xc?usp=drive_link">Data Visualization</a></li>
+<li><a href="https://drive.google.com/drive/folders/1cfVcxI7KUnEhf5zCsH7nAp-PuZzEUB6B?usp=drive_link">Data Mining</a></li>
 </ul>
 
 <p><strong>SAS</strong></p>
 
 <ul>
-<li><a href="LINK">Introduction to SAS for Data Analysis</a></li>
-<li><a href="LINK">SAS for Data Wrangling</a></li>
+<li><a href="https://drive.google.com/drive/folders/1hq_aL3iNRc-c-JfHHv143-q33SPvl22J?usp=drive_link">Introduction to SAS for Data Analysis</a></li>
+<li><a href="https://drive.google.com/drive/folders/14MAnP1MsI2gHPqihgNZOlZG7DDWd2uJN?usp=drive_link">SAS for Data Wrangling</a></li>
+</ul>
+
+<p><strong>NVivo</strong></p>
+
+<ul>
+<li><a href="https://drive.google.com/drive/folders/1PgFbAovukcAikxhBgHw0IcjUxA4iRc3W?usp=drive_link">NVivo Basics</a></li>
+<li><a href="https://drive.google.com/drive/folders/1jYoKBxJu758HBX42tMvdmJa15VxRYoXU?usp=drive_link">NVivo Visualization</a></li>
+</ul>
+
+<p><strong>Python</strong></p>
+
+<ul>
+<li><a href="https://drive.google.com/drive/folders/1nzg3GzM3OQ80EXs-OPUCVspusmQWcrNq?usp=drive_link">Introduction to Python</a></li>
+<li><a href="https://drive.google.com/drive/folders/1r4WC-Z7ajmXJ9pg6QwB-c-PCr6UeiDVe?usp=drive_link">Data Wrangling with Python</a></li>
 </ul>
 
 <p><strong>Other Tools</strong></p>
 
 <ul>
-<li><a href="LINK">Power BI</a></li>
-<li><a href="LINK">SQL</a></li>
-<li><a href="LINK">Tableau</a></li>
-<li><a href="LINK">NVivo</a></li>
-<li><a href="LINK">Python</a></li>
+<li><a href="https://drive.google.com/drive/folders/1UyDR1moxLNG0uEUYwpE_zvp-_AMssC4I?usp=drive_link">Power BI</a></li>
+<li><a href="https://drive.google.com/drive/folders/1aGXgvtKoOPxnNLxMEBcr370IPdycgrpB?usp=drive_link">SQL</a></li>
+<li><a href="https://drive.google.com/drive/folders/1RXdsd9I_sU8BVxaKqo_uf2NcDYXcCLEa?usp=drive_link">Tableau</a></li>
+
 </ul>
 
 </div>
@@ -75,5 +88,10 @@ Below is a list of workshops offered through our programming. Workshop titles li
 </ul>
 
 </div>
+
+<h3>Maps</h3>
+<ul>
+<li> Map Tour with Jim Nealis (offered in person) </li> 
+</ul>
 
 </div>
