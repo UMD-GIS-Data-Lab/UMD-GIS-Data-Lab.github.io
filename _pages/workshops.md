@@ -94,6 +94,11 @@ Below is a list of workshops offered through our programming. Workshop titles li
 
 <ul>
 <li>Map Tour with Jim Nealis (offered in person)</li>
+<li><a href="https://lib.guides.umd.edu/mckmaps">UMD Library Map Collection Guide</a></li>
+<li><a href="https://mapcollection3d.umd.edu/">McKeldin Map Collection 3D Tour</a></li>
+<li><a href="https://storymaps.arcgis.com/collections/12be77b7a7ab4e068cb909b0ba75c6d4">McKeldin Map Collection Story Map</a></li>
+<li><a href="https://storymaps.arcgis.com/stories/4bd0550a59d2448798d2dd7e6ce5f28c">McKeldin Map Exhibition Story Map</a></li>
+
 </ul>
 
 </div>
