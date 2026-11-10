@@ -111,7 +111,7 @@ I've worked as an epidemiologist and data consultant, building data and analytic
 
 
 <h3>👩‍🎓 Apoorva Verma </h3>
-<sub>Role: <b>Statistical Data Consultant</b></sub>
+<sub>Role: <b>Statistical Consultant</b></sub>
 
 <div style="display: flex; margin-top: -10px;">
   <div style="display: inline-block; width: 75%; text-align: left;">
@@ -163,6 +163,20 @@ I am a graduate student at the University of Maryland, studying <b>Geographic In
   <div style="clear:both;"></div>
 </div>
 
+<h3>👨‍💻 Ha Thi Van Dao</h3>
+<sub>Role: <b>GIS Specialist</b></sub>
+
+<div style="display: flex; margin-top: -10px;">
+  <div style="display: inline-block; width: 75%; text-align: left;">
+    <small>
+I am a graduate student at the University of Maryland, College Park, studying <b>Geographic Information Science </b>. I studied statistics during my undergraduate studies and have over two years of experience as a  <b>data analyst at the World Bank Group</b>, where I supported research, data analysis, and client advisory work. I am passionate about using  <b>spatial data</b> to uncover  <b>local climate risks and environmental inequities</b> that broader national averages often obscure, ensuring that data-driven evidence leads to informed policy.  Outside of my studies and work, I enjoy running, baking, and eating all-you-can-eat hotpot. The best way to reach me is by email at <a href="mailto:hvandao@umd.edu">hvandao@umd.edu</a>.
+    </small>
+  </div>
+  <div style="display: inline-block; width: 25%; text-align: right;">
+  <img src="/_pages/Ha.png" alt="Tushar" width="200"/>
+  </div>
+  <div style="clear:both;"></div>
+</div>
 
 <!-- -------------------------------------------------------------------------- -- >
 <!-- COMMENTING OUT PREV MEMBER DESCRIPTIONS -->
