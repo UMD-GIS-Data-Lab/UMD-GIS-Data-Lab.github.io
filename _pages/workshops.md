@@ -11,7 +11,7 @@ Below is a list of workshops offered through our programming. Workshop titles li
 
 <div style="flex: 1 1 300px; padding: 20px; border: 1px solid #ddd; border-radius: 6px;">
 
-<h3>Statistical & Data Analysis</h3>
+<h3>Statistical & Data Visualization</h3>
 
 <p><strong>R</strong></p>
 
@@ -68,21 +68,16 @@ Below is a list of workshops offered through our programming. Workshop titles li
 <li><a href="https://drive.google.com/drive/folders/1d-Y1Vb5fPiQX-fV-WTZ45ytA4gpqIinj?usp=drive_link">ArcPy: Automating GIS with Python</a></li>
 <li><a href="https://drive.google.com/drive/folders/1v0Ltj4Cmhcf5F1LQ-Qf-OjmEtTHPj6p7?usp=drive_link">ArcGIS Experience Builder</a></li>
 <li><a href="https://drive.google.com/drive/folders/1LuTmLoNKjifEx-PXnmcj6x6QhPW90M1N?usp=drive_link">ArcGIS Dashboards</a></li>
-</ul>
-
-<p><strong>R & Spatial Analysis</strong></p>
-
-<ul>
-<li><a href="https://drive.google.com/drive/folders/1lvsNrN6XRmbf8H_cDwbBZgIWJgaOn0kg?usp=drive_link">Introduction to Geospatial Data Analysis in R</a></li>
 <li><a href="https://drive.google.com/drive/folders/1_vESe8q-zFVvPCWVwnEdI1Yg84oswUpQ?usp=drive_link">Introduction to Spatial Statistics</a></li>
-</ul>
-
-<p><strong>Other GIS</strong></p>
-
-<ul>
 <li><a href="https://drive.google.com/drive/folders/1AOhODE-M_cfg90MhF04NwTLWn2RcvEJR?usp=drive_link">Georeferencing & Digitizing</a></li>
 <li><a href="https://drive.google.com/drive/folders/1uLN4-ex4ACakROzJp_WegnId30mYqw8Z?usp=drive_link">Remote Sensing</a></li>
+</ul>
+
+<p><strong>Open Source GIS</strong></p>
+
+<ul>
 <li><a href="https://drive.google.com/drive/folders/1_C6wYzO6aG06AG6WDryOPV3ZR8S1XV2Q?usp=drive_link">QGIS</a></li>
+<li><a href="https://drive.google.com/drive/folders/1lvsNrN6XRmbf8H_cDwbBZgIWJgaOn0kg?usp=drive_link">Introduction to Geospatial Data Analysis in R</a></li>
 <li>Augmented Reality (AR) Sandbox demonstration (offered in person). Visit our <a href="https://lib.guides.umd.edu/ARSandbox">website</a> to learn more about this interactive educational tool.</li>
 </ul>
 
